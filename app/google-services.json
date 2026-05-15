@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697954265017",
+    "project_id": "raone1",
+    "storage_bucket": "raone1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697954265017:android:41330c1110aba301d17868",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXNr3gsnkBTmDLqv1eNLqTVzfLpfTUWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
