@@ -1,53 +1,74 @@
-# RAKTA VAHINI - Every Drop Saves Life
+<p align="center">
+  <img src="app/src/main/res/drawable/app_logo.jpg" width="150" alt="Rakta Vahini Logo">
+</p>
 
-**RAKTA VAHINI** is a premium, high-impact Android application designed to bridge the gap between blood donors and those in urgent need. Built with a modern, cinematic UI and advanced features, it aims to streamline the blood donation process and save lives through technology.
+<h1 align="center">RAKTA VAHINI</h1>
 
-## 🚀 Key Features
+<p align="center">
+  <strong>Every Drop Saves Life</strong>
+</p>
 
--   **AI Matching**: Advanced matching logic to find the perfect donor for emergencies in seconds.
--   **Real-time Tracking**: Monitor live donor movement and coordination on a dedicated map interface.
--   **Global Ecosystem**: A community-driven platform to make an emotional impact every single day.
--   **Secure Life Portal**: Robust authentication and data protection for all users.
--   **Admin Command Center**: Specialized dashboard for administrators to manage operations and emergencies.
-
-## 🛠️ Tech Stack
-
--   **Language**: Kotlin
--   **UI Framework**: Jetpack Compose (Modern, declarative UI)
--   **Architecture**: MVVM with Clean Architecture principles
--   **Dependency Injection**: Hilt (Dagger)
--   **Backend**: Firebase (Authentication, Firestore, Cloud Messaging, Crashlytics)
--   **Navigation**: Jetpack Compose Navigation
--   **Mapping**: Google Maps Compose
--   **Local Storage**: DataStore, Room
--   **Animations**: Lottie, Compose Animations
-
-## 📸 Screenshots
-
-| Splash Screen | Onboarding | Login Screen |
-| :---: | :---: | :---: |
-| ![Splash](.github/screenshots/splash.png) | ![Onboarding](.github/screenshots/onboarding.png) | ![Login](.github/screenshots/login.png) |
-
-*(Note: Add your own screenshots to the `.github/screenshots` folder)*
-
-## 📦 Installation
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/manojr8491/RAKTA-VAHINI-141.git
-    ```
-2.  Open the project in **Android Studio (Ladybug or later)**.
-3.  Add your `google-services.json` file from Firebase to the `app/` directory.
-4.  Add your Google Maps API Key in `local.properties`:
-    ```properties
-    MAPS_API_KEY=YOUR_API_KEY_HERE
-    ```
-5.  Build and run the app.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-brightgreen.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Language-Kotlin-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-orange.svg" alt="UI">
+  <img src="https://img.shields.io/badge/Backend-Firebase-ffca28.svg" alt="Backend">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+</p>
 
 ---
 
-**Donate Blood • Save Lives**
+## 🌟 Vision
+
+**RAKTA VAHINI** is a premium, high-impact blood donation ecosystem designed to bridge the gap between donors and patients in critical need. By leveraging modern technology and a cinematic user experience, we transform a life-saving act into a seamless, community-driven mission.
+
+## ✨ Premium Features
+
+-   🔴 **Critical SOS matching**: Advanced AI-powered engine to find compatible donors within seconds.
+-   📍 **Cinematic Map Tracking**: Real-time visualization of donor movement and emergency coordination.
+-   🛡️ **Secure Life Portal**: Enterprise-grade security for user data and medical information.
+-   ⚡ **Instant Notifications**: Cloud-powered messaging for immediate emergency alerts.
+-   📊 **Admin Command Center**: A powerful dashboard for managing global operations and supply chains.
+
+## 🛠️ Technology Stack
+
+-   **Frontend**: Jetpack Compose (Modern Declarative UI)
+-   **Architecture**: MVVM + Clean Architecture
+-   **Dependency Injection**: Hilt (Dagger)
+-   **Backend**: Firebase (Auth, Firestore, Messaging, Crashlytics)
+-   **Data Storage**: Room DB, DataStore
+-   **Map Integration**: Google Maps Compose SDK
+-   **Visuals**: Lottie Animations, Material 3 Design System
+
+## 📸 Experience the App
+
+<p align="center">
+  <img src="app/src/main/res/drawable/app_logo.jpg" width="200" style="border-radius: 20px;">
+</p>
+
+> [!NOTE]
+> The app features a premium dark theme designed for clinical environments and night-time emergency use.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Android Studio Ladybug+
+- Google Maps API Key
+- Firebase Configuration (`google-services.json`)
+
+### Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/manojr8491/RAKTA-VAHINI-141.git
+   ```
+2. Configure `local.properties`
+   ```properties
+   MAPS_API_KEY=your_api_key_here
+   ```
+3. Sync and Run.
+
+---
+
+<p align="center">
+  Made with ❤️ for Humanity | <b>Donate Blood • Save Lives</b>
+</p>
